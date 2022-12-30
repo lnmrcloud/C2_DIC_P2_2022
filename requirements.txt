@@ -1,0 +1,9 @@
+pip install sckit-learn
+pip install pandas
+pip install streamlit
+pip install numpy
+pip install flask
+pip install flask-cors
+
+
+# Al menos utilizar un data set por funcion
